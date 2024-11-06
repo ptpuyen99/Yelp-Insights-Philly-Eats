@@ -1,5 +1,5 @@
 # Yelp-Insights-Philly-Eats
-This project leverages Yelp data to help a new business owner understand the Chinese restaurant market in Philadelphia. Using Python, it explores customer preferences, popular neighborhoods, competitive strategy, and other key factors for success in the local restaurant scene.
+This project leverages Yelp data to help a new business owner understand the Chinese restaurant market in Philadelphia. Using Python and SQL, it explores customer preferences, popular neighborhoods, competitive strategy, and other key factors for success in the local restaurant scene.
 # Key Analyses
 ## Average Number of Chinese Restaurants per City in Pennsylvania
 By calculating the average number of Chinese restaurants across cities in Pennsylvania, we can identify whether Philadelphia is saturated or underserved in this cuisine category. 
