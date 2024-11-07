@@ -1,5 +1,5 @@
 # Key Analyses
-## Average Number of Chinese Restaurants per City in Pennsylvania
+## The Number of Chinese Restaurants per City in Pennsylvania
 By calculating the total number of Chinese restaurants across cities in Pennsylvania, we can identify whether Philadelphia is saturated or underserved in this cuisine category. 
 
 ### <img width="603" alt="Screenshot 2024-11-07 at 10 25 24 AM" src="https://github.com/user-attachments/assets/9cb4dfcc-7941-41b5-86cb-5eeacf5337a0">
