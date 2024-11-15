@@ -5,18 +5,21 @@ By calculating the total number of Chinese restaurants across cities in Pennsylv
 ### <img width="603" alt="Screenshot 2024-11-07 at 10 25 24 AM" src="https://github.com/user-attachments/assets/9cb4dfcc-7941-41b5-86cb-5eeacf5337a0">
 
 ### <img width="276" alt="Screenshot 2024-11-07 at 10 25 31 AM" src="https://github.com/user-attachments/assets/8d778042-1b8a-4c82-b534-430df7dc811f">
+Recommendation: Philadelphia is relatively saturated with Chinese restaurants compared to other cities, suggesting high competition. A new restaurant in this category should consider specializing or offering unique dishes to stand out.
 ## Most Common Restaurant Categories in Philadelphia
 Understanding popular restaurant types in Philadelphia allows us to see how competitive the Chinese food category is compared to others. 
 
 ### <img width="597" alt="Screenshot 2024-11-07 at 10 25 50 AM" src="https://github.com/user-attachments/assets/9f92e7df-e93f-4010-9803-61b3acaca96f">
 
 ### <img width="279" alt="Screenshot 2024-11-07 at 10 25 58 AM" src="https://github.com/user-attachments/assets/d6e2d60a-2a30-42ad-af48-3d58d303699b">
+Recommendation: If you are opening a Chinese restaurant, ensure it has distinguishing elements, like fusion cuisine or a unique dining experience. Given that pizza and Italian are more popular, exploring a Chinese-Italian fusion could tap into a less-explored niche.
 ## Top "Useful" Review Counts for Restaurants
 By analyzing which restaurants receive the highest number of "useful" reviews, we can pinpoint influential establishments and understand the qualities customers value. 
 
 ### <img width="593" alt="Screenshot 2024-11-07 at 10 26 05 AM" src="https://github.com/user-attachments/assets/ac232964-ad1f-447a-9611-50e2642d1261">
 
 ### <img width="371" alt="Screenshot 2024-11-07 at 10 26 10 AM" src="https://github.com/user-attachments/assets/056d9e7e-602f-4884-ae43-b1953e754063">
+Recommendation: Strive for high customer satisfaction and engagement, as “useful” reviews can drive visibility and credibility. Consider offering dishes that resonate with local tastes or provide memorable experiences that customers will likely review positively.
 ## Peak Review Months
 Knowing which months experience the highest review activity can help us identify busy periods, perhaps signaling times of increased dining out. Such patterns can inform seasonal marketing strategies or staffing adjustments.
 
@@ -29,6 +32,7 @@ Benchmarking other Chinese restaurants' average ratings and review counts lets u
 ### <img width="596" alt="Screenshot 2024-11-07 at 10 26 36 AM" src="https://github.com/user-attachments/assets/616ded02-9a73-4087-976d-2415f1ceff0b">
 
 ### <img width="379" alt="Screenshot 2024-11-07 at 10 26 43 AM" src="https://github.com/user-attachments/assets/a8b0f4b4-3c91-4502-a890-4f015520e1e8">
+Recommendation: Aim for a rating above the average (3.53) to capture attention in a competitive market. Higher ratings and reviews could signal quality to potential customers. Focus on quality control and consistent service to maintain favorable ratings.
 ## Busiest Day and Time for Chinese Restaurants
 Understanding peak days and hours for Chinese restaurants helps us optimize hours of operation to match customer demand and efficiently schedule staff during high-traffic times.
 
@@ -59,3 +63,5 @@ By counting mentions of keywords such as "authentic" and "spicy," we can gauge p
 ### <img width="507" alt="Screenshot 2024-11-07 at 10 32 00 AM" src="https://github.com/user-attachments/assets/17068ea3-3c2f-4dcb-aa5c-2aae13ecb5ee">
 
 ### <img width="120" alt="Screenshot 2024-11-07 at 10 32 05 AM" src="https://github.com/user-attachments/assets/ebd1f029-32d3-436d-a0a3-3137460b7bf9">
+# Conclusion
+Opening a Chinese restaurant in Philadelphia means entering a competitive market. Differentiation, excellent service, and strategic engagement with customers can help a new restaurant succeed. With a unique approach or standout qualities, there’s potential to attract and retain a loyal customer base.
