@@ -65,3 +65,4 @@ By counting mentions of keywords such as "authentic" and "spicy," we can gauge p
 ### <img width="120" alt="Screenshot 2024-11-07 at 10 32 05 AM" src="https://github.com/user-attachments/assets/ebd1f029-32d3-436d-a0a3-3137460b7bf9">
 # Conclusion
 Opening a Chinese restaurant in Philadelphia means entering a competitive market. Differentiation, excellent service, and strategic engagement with customers can help a new restaurant succeed. With a unique approach or standout qualities, there’s potential to attract and retain a loyal customer base.
+### <img width="592" alt="Screenshot 2024-12-14 at 11 46 51 AM" src="https://github.com/user-attachments/assets/56a8f3a0-773d-422b-84f4-39c93a5fad2d" />
